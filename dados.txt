@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Mauricio Gomes Figueiredo
+-Profissão: Analista de Qualidade
+-Cidade: Martinopolis
+-O que faz nas horas vaga: Jogo League of Legends
+-Feedback sobre o curso Qualidade de Software: Acho alguns exercicios confusos
+-Feedback sobre a plataforma de estudo da EBAC: Muito boa e intuitiva
+
+Obrigado!!!
+
+
